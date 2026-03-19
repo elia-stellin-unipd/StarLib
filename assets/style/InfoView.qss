@@ -1,0 +1,55 @@
+* {
+    background-color: #282828;
+    border-radius: 4px;
+}
+
+QLineEdit, QTextEdit, QDateEdit, QSpinBox, QComboBox {
+    background-color: #121212;
+    border-color: white;
+    border-width: 1px;
+    padding: 2px;
+}
+
+QTextEdit {
+    max-height: 100px;
+}
+
+#info-article-title {
+    font-size: 20px;
+    padding: 0px;
+}
+
+#info-article-type {
+    color: #a6a6a6;
+    margin-bottom: 5px;
+}
+
+QPushButton {
+    background-color: #121212;
+    border-radius: 3px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+QPushButton:hover {
+    background-color: #333;
+}
+
+QPushButton:pressed {
+    background-color: #454545;
+}
+
+#confirm-button {
+    background-color: #4823f4;
+}
+
+#confirm-button:hover {
+    background-color: #583CDD;
+}
+
+#confirm-button:pressed {
+    background-color: #765FE3;
+}
+
+#info-edit-article {
+}

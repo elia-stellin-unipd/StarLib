@@ -1,0 +1,27 @@
+ArticlePreviewBase {
+background-color: #282828;
+border-radius: 4px;
+min-width: 150px;
+min-height: 150px;
+max-width: 150px;
+max-height: 150px;
+}
+
+ArticlePreviewBase[selected="true"] {
+background-color: #351f7a;
+}
+ArticlePreviewBase:hover[selected="true"] {
+background-color: #4d3589;
+}
+
+ArticlePreviewBase:hover {
+background-color: #3f3f3f;
+}
+
+* {
+background: transparent;
+}
+
+FavoriteButton:hover {
+background-color: #666
+}

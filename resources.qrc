@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/style/main.qss</file>
+        <file>assets/style/SearchBarWidget.qss</file>
+        <file>assets/style/ArticlePreviewBase.qss</file>
+        <file>assets/style/InfoView.qss</file>
+        <file>assets/style/ConfirmDialogBox.qss</file>
+        <file>assets/style/NewArticleButton.qss</file>
+        
+        <file>assets/icons/app-icon.png</file>
+        <file>assets/icons/book-solid.png</file>
+        <file>assets/icons/film-solid.png</file>
+        <file>assets/icons/gear-solid.png</file>
+        <file>assets/icons/newspaper-solid.png</file>
+        <file>assets/icons/edit-gray.png</file>
+        <file>assets/icons/star-off.png</file>
+        <file>assets/icons/star-on.png</file>
+        <file>assets/icons/trash-solid.png</file>
+        <file>assets/icons/plus-solid.png</file>
+        <file>assets/icons/edit-white.png</file>
+        <file>assets/icons/plus-light.png</file>
+        <file>assets/icons/star-white.png</file>
+        <file>assets/icons/file-circle-plus-solid.png</file>
+        <file>assets/icons/file-pen-solid.png</file>
+        <file>assets/icons/file-solid.png</file>
+        <file>assets/icons/floppy-disk-solid.png</file>
+        <file>assets/icons/floppy-disk-gray.png</file>
+        <file>assets/icons/file-pen-solid-gray.png</file>
+    </qresource>
+</RCC>
