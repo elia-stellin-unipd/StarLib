@@ -1,8 +1,12 @@
-# StarLib
+# StarLib ⭐
 
 Applicazione desktop per la gestione di librerie virtuali, prodotta con C++ e Qt.
 
+<img src="https://raw.githubusercontent.com/elia-stellin-unipd/StarLib/refs/heads/main/.relazione/schermata_principale.png">
+
+
 Per una descrizione più approfondita delle funzionalità e del design dell'applicativo è possibile consultare la [relazione annessa](./.relazione/Relazione.pdf).
+
 
 ## Funzionalità principali
 1. **Gestione di tre tipi di articoli** (libri, film, riviste di giornale):
