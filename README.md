@@ -1,4 +1,5 @@
 # StarLib
 
-Viene fornito il file Libreria.json per testare l'applicazione, senza dover inserire articoli a mano.
+Applicazione desktop per la gestione di librerie virtuali, prodotta con C++ e Qt.
 
+Per un riassunto delle funzionalità e del design dell'applicativo è possibile consultare la [relazione annessa](./.relazione/Relazione.pdf).
